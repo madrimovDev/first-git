@@ -1,6 +1,5 @@
 console.log('GIT Hello')
-function main(){
-
+function main() {
+  console.log('Main func')
 }
-
 main()
