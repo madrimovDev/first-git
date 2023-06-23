@@ -1,1 +1,6 @@
-console.log('GIT')
+console.log('GIT Hello')
+function main(){
+
+}
+
+main()
